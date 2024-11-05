@@ -1,0 +1,50 @@
+.ar{
+    color: red;
+}
+.cs{
+    text-align: center;
+    color: black;
+    background-color: yellow;
+}
+.os{
+    color: green;
+}
+.images img{
+width: 500px;
+margin: 10px;
+}
+.center{
+    text-align: center;
+}
+.table{
+    width: 1px;
+border-collapse: collapse;
+margin-top: ;
+}
+table,td{
+border: 1px;solid color: black text-rendering: green blue ;;
+}
+.table{
+    width: 1000px;
+}
+.vs,bs{
+    text-align: center;
+
+}
+.bs{
+    background-color: green;
+}
+.vs{
+    background-color: red;
+}
+.ys{
+    background-color: blue;
+}
+
+.fs{
+    background-color: black;
+    color: white;
+}
+.is{
+    color: green;
+}
